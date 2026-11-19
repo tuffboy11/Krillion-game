@@ -1,2 +1,0 @@
-# Krillion-game
-its krillion
